@@ -1,0 +1,5 @@
+E:\projects\CSharp-Twitter-Application\TweetManager\bin\Debug\TweetManager.dll
+E:\projects\CSharp-Twitter-Application\TweetManager\bin\Debug\TweetManager.pdb
+E:\projects\CSharp-Twitter-Application\TweetManager\obj\Debug\TweetManager.csproj.CoreCompileInputs.cache
+E:\projects\CSharp-Twitter-Application\TweetManager\obj\Debug\TweetManager.dll
+E:\projects\CSharp-Twitter-Application\TweetManager\obj\Debug\TweetManager.pdb

@@ -1,0 +1,10 @@
+E:\projects\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.exe.config
+E:\projects\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.exe
+E:\projects\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.pdb
+E:\projects\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.csproj.AssemblyReference.cache
+E:\projects\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.csproj.CoreCompileInputs.cache
+E:\projects\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.exe
+E:\projects\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.pdb
+E:\projects\CSharp-Twitter-Application\Twitter-Console\bin\Debug\TweetManager.dll
+E:\projects\CSharp-Twitter-Application\Twitter-Console\bin\Debug\TweetManager.pdb
+E:\projects\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.csproj.CopyComplete
